@@ -8,3 +8,5 @@ Students will be able to
 - Put images (and if time, sounds) into a sketch
 - Initiate variables and update variables in p5
 - Use if-statements in p5
+
+See "Teacher Notes" for full lesson plan.
